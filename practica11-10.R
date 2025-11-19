@@ -33,5 +33,9 @@ icobs_der <- 4.0879 + 2.2010*0.4020
 
 ## f ##
 
+# me perdi
+
+
+### Ejercicio 2 ###
 
 
